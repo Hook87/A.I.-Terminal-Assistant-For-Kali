@@ -1,0 +1,11 @@
+ HOW TO USE THE TERMINAL ASSISTANT
+
+Real‑time assistant:
+
+python3 floot.py --monitor
+GitHub guided setup:
+
+python3 floot.py --github https://github.com/user/project
+Auto-fix suggestion mode:
+
+python3 floot.py --autofix
